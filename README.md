@@ -1,8 +1,37 @@
 # WiTNY-Sample-Lesson
 
-# Intro to Python
+## Intro to Python
 
-[Return to Overview](./README)
+#### SWBATs:
+
+* GENERAL PYTHON - explain that all programs are just lines of text read by a computer
+* GENERAL PYTHON - demonstrate that python programs are read top to bottom
+* GENERAL PYTHON - differentiate between data and key words
+* STRINGS - explain what a string is and why it's used
+* STRINGS - create strings using double quotes
+* STRINGS - concatenate two strings using the `+` operator
+* STRINGS - use common string functions
+* PRINT - Explain what a print statement is and what it's used for
+* INT - explain what an integer is and why it's used
+* INT - use common mathematical operations with integers
+* INT - use typical functions like float() and str() to mutate integers
+* FLT - explain what a float is and why it's used
+* FLT - understand that math with floats produces floats and math with integers produces integers (except in the case of division)
+* FLT - use typical functions like int() and str() to mutate floats
+* FLT - use common mathematical operations on floats
+* STRINGS/VARIABLES - concatenate a variable or a function to a string
+* VAR - use a variable in place of a piece of data
+* VAR - assign integers to variables
+* VAR - assign floats to variables
+* VAR - reassign the value of a variable
+* INPUT - take in user input using the input() function
+* VAR - use correct syntax in naming variables
+* CONDITIONALS - Explain the use of a boolean data type.
+* CONDITIONALS - Explain what an if statement is and why it's used
+* CONDITIONALS - Implement an if statement with 1, 2, and 3+ branches
+* CONDITIONALS - Use comparison operators in a conditional statement
+* GENERAL PYTHON - predict that the effect of text in python that is not data or a key word will throw an error
+* GENERAL PYTHON - explain that an error will stop the execution of python code
 
 
 #### Sequence
